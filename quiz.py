@@ -1,9 +1,9 @@
 import random
 
-with open('questions.txt', 'r') as file:
+with open('questions11.txt', 'r') as file:
     questions = file.readlines()
 
-with open('answers.txt', 'r') as file:
+with open('answers11.txt', 'r') as file:
     answers = file.readlines()
 
 levels = {
